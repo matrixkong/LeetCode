@@ -18,13 +18,13 @@ for (int i=0; i<m; i++)
   for (int state=0; state<(1<<n); state++)    
   {
     for (int subset : state)
-      dp[i][state] = dp[i-1][state-subset] + cost[i][subset]
-    dp[i][state[ = dp[i-1][state] + minCost[i]
+      dp[i][state] = min{dp[i-1][state-subset] + cost[i][subset]};
+    dp[i][state] = min(dp[i][state], dp[i-1][state] + minCost[i]);
   }
 ```
 注意对于state的遍历嵌套subset的遍历，时间复杂度并不是``` 2^N * 2^N```，而是```3^N```。你可以想象，对于每一个bit，在外、里两层的状态只可能是```10,11,00```。
 
-所以总的时间复杂度是: ```M*3^N*N```，其中最后一个N是对subset的分解来累加i的总cost。
+所以总的时间复杂度是: ```M*3^N```、注意，在新的test case中，我们需要提前计算并存储cost[i][subset]，表示第一个集合中的元素i与第二个集合中的subset配对需要的总cost。
 
 对于遍历state的子集，有高效的循环方法需要掌握：
 ```cpp

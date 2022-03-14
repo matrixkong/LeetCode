@@ -56,6 +56,7 @@
 [1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers) (H-)  
 [1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1775.Equal-Sum-Arrays-With-Minimum-Number-of-Operations) (M+)  
 [1868.Product-of-Two-Run-Length-Encoded-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1868.Product-of-Two-Run-Length-Encoded-Arrays) (M+)  
+[2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2098.Subsequence-of-Size-K-With-the-Largest-Even-Sum) (M+)      
 
 #### [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays) (H)   
@@ -84,6 +85,7 @@
 [1889.Minimum-Space-Wasted-From-Packaging](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1889.Minimum-Space-Wasted-From-Packaging) (H-)  
 [1901.Find-a-Peak-Element-II](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1901.Find-a-Peak-Element-II) (H)  
 [2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps) (H)    
+[2141.Maximum-Running-Time-of-N-Computers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2141.Maximum-Running-Time-of-N-Computers) (M+)     
 * ``Binary Processing``  
 [1483.Kth-Ancestor-of-a-Tree-Node](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1483.Kth-Ancestor-of-a-Tree-Node) (H)  
 [1922.Count-Good-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1922.Count-Good-Numbers) (M)  
@@ -121,6 +123,7 @@
 [2064.Minimized-Maximum-of-Products-Distributed-to-Any-Store](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2064.Minimized-Maximum-of-Products-Distributed-to-Any-Store) (M)    
 [2071.Maximum-Number-of-Tasks-You-Can-Assign](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2071.Maximum-Number-of-Tasks-You-Can-Assign) (H)  
 [2102.Sequentially-Ordinal-Rank-Tracker](https://github.com/wisdompeak/LeetCode/tree/master/Heap/2102.Sequentially-Ordinal-Rank-Tracker) (H-)    
+[2137.Pour-Water-Between-Buckets-to-Make-Water-Levels-Equal](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2137.Pour-Water-Between-Buckets-to-Make-Water-Levels-Equal) (M)      
 
 #### [Hash Table](https://github.com/wisdompeak/LeetCode/tree/master/Hash)
 [049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    
@@ -147,6 +150,7 @@
 1224.Maximum-Equal-Frequency (H-)  
 [1487.Making-File-Names-Unique](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1487.Making-File-Names-Unique) (M+)  
 [1573.Number-of-Ways-to-Split-a-String](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1573.Number-of-Ways-to-Split-a-String) (M)  
+[2131.Longest-Palindrome-by-Concatenating-Two-Letter-Words](https://github.com/wisdompeak/LeetCode/tree/master/Hash/2131.Longest-Palindrome-by-Concatenating-Two-Letter-Words) (M)     
 * ``Hash+Prefix``    
 [525.Contiguous-Array](https://github.com/wisdompeak/LeetCode/tree/master/Hash/525.Contiguous-Array) (M)    
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M)   
@@ -207,7 +211,6 @@
 [173.Binary-Search-Tree-Iterator](https://github.com/wisdompeak/LeetCode/tree/master/Stack/173.Binary-Search-Tree-Iterator) (M)   
 [545.Boundary-of-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/545.Boundary-of-Binary-Tree) (H-)     
 [272.Closest-Binary-Search-Tree-Value-II](https://github.com/wisdompeak/LeetCode/tree/master/Tree/272.Closest-Binary-Search-Tree-Value-II) (M+)   
-[310.Minimum-Height-Trees](https://github.com/wisdompeak/LeetCode/tree/master/Tree/310.Minimum-Height-Trees) (H-)   
 [226.Invert-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/226.Invert-Binary-Tree) (M)    
 [655.Print-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/655.Print-Binary-Tree) (M+)   
 [897.Increasing-Order-Search-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/897.Increasing-Order-Search-Tree) (M+)  
@@ -278,6 +281,7 @@
 [307.Range-Sum-Query-Mutable](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/307.Range-Sum-Query-Mutable/) (M)   
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/1649.Create-Sorted-Array-through-Instructions) (H)  
 [2031.Count-Subarrays-With-More-Ones-Than-Zeros](https://github.com/wisdompeak/LeetCode/tree/master/Segment_Tree/2031.Count-Subarrays-With-More-Ones-Than-Zeros) (H)    
+[2179.Count-Good-Triplets-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Segment_Tree/2179.Count-Good-Triplets-in-an-Array) (H)      
 
 #### [Design](https://github.com/wisdompeak/LeetCode/tree/master/Design)
 [146.LRU-Cache](https://github.com/wisdompeak/LeetCode/tree/master/Design/146.LRU-Cache) (H-)   
@@ -288,7 +292,7 @@
 [716.Max-Stack](https://github.com/wisdompeak/LeetCode/tree/master/Design/716.Max-Stack) (M+)    
 [355.Design-Twitter](https://github.com/wisdompeak/LeetCode/tree/master/Design/355.Design-Twitter) (H)    
 [535.Encode-and-Decode-TinyURL](https://github.com/wisdompeak/LeetCode/tree/master/Design/535.Encode-and-Decode-TinyURL) (M)    
-[631.Design-Excel-Sum-Formula](https://github.com/wisdompeak/LeetCode/tree/master/Design/631.Design-Excel-Sum-Formula) (H)    
+[631.Design-Excel-Sum-Formula](https://github.com/wisdompeak/LeetCode/tree/master/Design/631.Design-Excel-Sum-Formula) (M+)    
 [642.Design-Search-Autocomplete-System](https://github.com/wisdompeak/LeetCode/tree/master/Design/642.Design-Search-Autocomplete-System) (M+)    
 [895.Maximum-Frequency-Stack](https://github.com/wisdompeak/LeetCode/tree/master/Design/895.Maximum-Frequency-Stack) (H)    
 [1146.Snapshot-Array](https://github.com/wisdompeak/LeetCode/tree/master/Design/1146.Snapshot-Array) (H)  
@@ -298,6 +302,7 @@
 [1418.Display-Table-of-Food-Orders-in-a-Restaurant](https://github.com/wisdompeak/LeetCode/tree/master/Design/1418.Display-Table-of-Food-Orders-in-a-Restaurant) (H-)  
 [1622.Fancy-Sequence](https://github.com/wisdompeak/LeetCode/tree/master/Design/1622.Fancy-Sequence) (H+)  
 [1801.Number-of-Orders-in-the-Backlog](https://github.com/wisdompeak/LeetCode/tree/master/Design/1801.Number-of-Orders-in-the-Backlog) (M+)     
+[2166.Design-Bitset](https://github.com/wisdompeak/LeetCode/tree/master/Design/2166.Design-Bitset) (M+)     
 
 #### [Stack](https://github.com/wisdompeak/LeetCode/tree/master/Stack)
 [032.Longest-Valid-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/032.Longest-Valid-Parentheses) (H)   
@@ -314,6 +319,7 @@
 [1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses) (H-)  
 [1209.Remove-All-Adjacent-Duplicates-in-String-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1209.Remove-All-Adjacent-Duplicates-in-String-II) (M+)   
 [1586.Binary-Search-Tree-Iterator-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1586.Binary-Search-Tree-Iterator-II) (H)  
+[2197.Replace-Non-Coprime-Numbers-in-Array](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2197.Replace-Non-Coprime-Numbers-in-Array) (H-)     
 * ``monotonic stack``    
 [042.Trapping-Rain-Water](https://github.com/wisdompeak/LeetCode/tree/master/Others/042.Trapping-Rain-Water) (H)  
 [084.Largest-Rectangle-in-Histogram](https://github.com/wisdompeak/LeetCode/tree/master/Stack/084.Largest-Rectangle-in-Histogram) (H)   
@@ -479,7 +485,7 @@
 [207.Course-Schedule](https://github.com/wisdompeak/LeetCode/tree/master/BFS/207.Course-Schedule) (H-)   
 [210.Course-Schedule-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/210.Course-Schedule-II) (M)   
 [269.Alien-Dictionary](https://github.com/wisdompeak/LeetCode/tree/master/BFS/269.Alien-Dictionary) (H-)    
-[310.Minimum-Height-Trees](https://github.com/wisdompeak/LeetCode/tree/master/Tree/310.Minimum-Height-Trees) (H-)    
+[310.Minimum-Height-Trees](https://github.com/wisdompeak/LeetCode/tree/master/BFS/310.Minimum-Height-Trees) (H-)    
 [444.Sequence-Reconstruction](https://github.com/wisdompeak/LeetCode/tree/master/BFS/444.Sequence-Reconstruction) (H)  
 [802.Find-Eventual-Safe-States](https://github.com/wisdompeak/LeetCode/tree/master/BFS/802.Find-Eventual-Safe-States) (H-)   
 [1136.Parallel-Courses](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1136.Parallel-Courses) (M)   
@@ -489,6 +495,7 @@
 [1857.Largest-Color-Value-in-a-Directed-Graph](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1857.Largest-Color-Value-in-a-Directed-Graph) (H-)  
 [2050.Parallel-Courses-III](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2050.Parallel-Courses-III) (M+)      
 [2115.Find-All-Possible-Recipes-from-Given-Supplies](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2115.Find-All-Possible-Recipes-from-Given-Supplies) (M)     
+[2127.Maximum-Employees-to-Be-Invited-to-a-Meeting](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2127.Maximum-Employees-to-Be-Invited-to-a-Meeting) (H)    
 * ``Dijkstra (BFS+PQ)``   
 [743.Network-Delay-Time](https://github.com/wisdompeak/LeetCode/tree/master/BFS/743.Network-Delay-Time) (H)    
 [407.Trapping-Rain-Water-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/407.Trapping-Rain-Water-II) (H)      
@@ -496,14 +503,17 @@
 [505.The-Maze-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/505.The-Maze-II) (H)  
 [787.Cheapest-Flights-Within-K-Stops](https://github.com/wisdompeak/LeetCode/tree/master/Graph/787.Cheapest-Flights-Within-K-Stops) (H-)    
 [882.Reachable-Nodes-In-Subdivided-Graph](https://github.com/wisdompeak/LeetCode/tree/master/BFS/882.Reachable-Nodes-In-Subdivided-Graph ) (H)  
-[1066.Campus-Bikes-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1066.Campus-Bikes-II) (H+)    
-[1879.Minimum-XOR-Sum-of-Two-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1879.Minimum-XOR-Sum-of-Two-Arrays) (H)  
-[1947.Maximum-Compatibility-Score-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1947.Maximum-Compatibility-Score-Sum) (H)  
 [1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid) (H)  
 [1514.Path-with-Maximum-Probability](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1514.Path-with-Maximum-Probability) (H)  
 [1786.Number-of-Restricted-Paths-From-First-to-Last-Node](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1786.Number-of-Restricted-Paths-From-First-to-Last-Node) (H-)  
 [1810.Minimum-Path-Cost-in-a-Hidden-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1810.Minimum-Path-Cost-in-a-Hidden-Grid) (M+)  
 [1976.Number-of-Ways-to-Arrive-at-Destination](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1976.Number-of-Ways-to-Arrive-at-Destination) (H-)    
+[2093.Minimum-Cost-to-Reach-City-With-Discounts](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2093.Minimum-Cost-to-Reach-City-With-Discounts) (H-)      
+[2203.Minimum-Weighted-Subgraph-With-the-Required-Paths](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2203.Minimum-Weighted-Subgraph-With-the-Required-Paths) (H-)     
+* ``Dijkstra (for Bipatite Graph)``   
+[1066.Campus-Bikes-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1066.Campus-Bikes-II) (H+)    
+[1879.Minimum-XOR-Sum-of-Two-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1879.Minimum-XOR-Sum-of-Two-Arrays) (H)  
+[1947.Maximum-Compatibility-Score-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1947.Maximum-Compatibility-Score-Sum) (H)  
 
 #### [Trie](https://github.com/wisdompeak/LeetCode/tree/master/Trie)
 [208.Implement-Trie--Prefix-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Trie/208.Implement-Trie--Prefix-Tree) (M+)    
@@ -586,6 +596,7 @@
 [1937.Maximum-Number-of-Points-with-Cost](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1937.Maximum-Number-of-Points-with-Cost) (H-)  
 [1955.Count-Number-of-Special-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1955.Count-Number-of-Special-Subsequences) (H-)      
 [2088.Count-Fertile-Pyramids-in-a-Land](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2088.Count-Fertile-Pyramids-in-a-Land) (H-)     
+[2140.Solving-Questions-With-Brainpower](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2140.Solving-Questions-With-Brainpower) (H)      
 * ``基本型 I``   
 [198.House-Robber](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/198.House-Robber) (E)   
 [213.House-Robber-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/213.House-Robber-II) (M+)    
@@ -612,6 +623,7 @@
 [1839.Longest-Substring-Of-All-Vowels-in-Order](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1839.Longest-Substring-Of-All-Vowels-in-Order) (M)  
 [1883.Minimum-Skips-to-Arrive-at-Meeting-On-Time](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1883.Minimum-Skips-to-Arrive-at-Meeting-On-Time) (H)  
 [2036.Maximum-Alternating-Subarray-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2036.Maximum-Alternating-Subarray-Sum) (M+)     
+[2143.Choose-Numbers-From-Two-Arrays-in-Range](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2143.Choose-Numbers-From-Two-Arrays-in-Range) (H)    
 * ``基本型 II``   
 [368.Largest-Divisible-Subset](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/368.Largest-Divisible-Subset) (M+)   
 [300.Longest-Increasing-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/300.Longest-Increasing-Subsequence) (M+)   
@@ -626,6 +638,7 @@
 [1546.Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1546.Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target) (M+)   
 [1626.Best-Team-With-No-Conflicts](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1626.Best-Team-With-No-Conflicts) (M)  
 [1691.Maximum-Height-by-Stacking-Cuboids](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1691.Maximum-Height-by-Stacking-Cuboids) (H)  
+[2188.Minimum-Time-to-Finish-the-Race](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2188.Minimum-Time-to-Finish-the-Race) (H-)    
 * ``走迷宫型``   
 [120.Triangle](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/120.Triangle) (E)  
 [174.Dungeon-Game](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/174.Dungeon-Game) (H-)    
@@ -709,21 +722,24 @@
 [1349.Maximum-Students-Taking-Exam](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1349.Maximum-Students-Taking-Exam) (H)   
 [1411.Number-of-Ways-to-Paint-N×3-Grid](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1411.Number-of-Ways-to-Paint-N%C3%973-Grid) (M)    
 [1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other) (H-)    
-[1595.Minimum-Cost-to-Connect-Two-Groups-of-Points](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1595.Minimum-Cost-to-Connect-Two-Groups-of-Points) (H)  
 [1659.Maximize-Grid-Happiness](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1659.Maximize-Grid-Happiness) (H)  
 [1681.Minimum-Incompatibility](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1681.Minimum-Incompatibility) (H)  
 [1723.Find-Minimum-Time-to-Finish-All-Jobs](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1723.Find-Minimum-Time-to-Finish-All-Jobs) (H-)  
 [1799.Maximize-Score-After-N-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1799.Maximize-Score-After-N-Operations) (H-)  
 [1931.Painting-a-Grid-With-Three-Different-Colors](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1931.Painting-a-Grid-With-Three-Different-Colors) (M+)  
 [1994.The-Number-of-Good-Subsets](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1994.The-Number-of-Good-Subsets) (H)      
+[2184.Number-of-Ways-to-Build-Sturdy-Brick-Wall](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2184.Number-of-Ways-to-Build-Sturdy-Brick-Wall) (H-)      
     * ``枚举集合的子集``       
     [1494.Parallel-Courses-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1494.Parallel-Courses-II) (H)   
     [1655.Distribute-Repeating-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1655.Distribute-Repeating-Integers) (H)  
     [1986.Minimum-Number-of-Work-Sessions-to-Finish-the-Tasks](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1986.Minimum-Number-of-Work-Sessions-to-Finish-the-Tasks) (M+)     
+    [2152.Minimum-Number-of-Lines-to-Cover-Points](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2152.Minimum-Number-of-Lines-to-Cover-Points) (H-)     
     * ``带权二分图``   
 [1066.Campus-Bikes-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1066.Campus-Bikes-II) (H+)    
+[1595.Minimum-Cost-to-Connect-Two-Groups-of-Points](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1595.Minimum-Cost-to-Connect-Two-Groups-of-Points) (H)  
 [1879.Minimum-XOR-Sum-of-Two-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1879.Minimum-XOR-Sum-of-Two-Arrays) (H)  
 [1947.Maximum-Compatibility-Score-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1947.Maximum-Compatibility-Score-Sum) (H)  
+[2172.Maximum-AND-Sum-of-Array](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2172.Maximum-AND-Sum-of-Array) (H)    
 * ``Catalan``   
 [096.Unique-Binary-Search-Trees](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/096.Unique-Binary-Search-Trees) (M+)  
 [1259.Handshakes-That-Don't-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1259.Handshakes-That-Don't-Cross) (M+)   
@@ -733,7 +749,6 @@
 [1866.Number-of-Ways-to-Rearrange-Sticks-With-K-Sticks-Visible](https://github.com/wisdompeak/LeetCode/tree/master/Math/1866.Number-of-Ways-to-Rearrange-Sticks-With-K-Sticks-Visible) (H)  
 * ``Infer future from current``   
 [2044.Count-Number-of-Maximum-Bitwise-OR-Subsets](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2044.Count-Number-of-Maximum-Bitwise-OR-Subsets) (M)    
-[2140.Solving-Questions-With-Brainpower](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2140.Solving-Questions-With-Brainpower) (H-)      
 
 #### [Bit Manipulation](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation)
 [137.Single-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/137.Single-Number-II) (H-)   
@@ -758,11 +773,12 @@
 [1284.Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1284.Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix) (M+)  
 [1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List) (H-)  
 [1601.Maximum-Number-of-Achievable-Transfer-Requests](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1601.Maximum-Number-of-Achievable-Transfer-Requests) (H-)  
-[1755.Closest-Subsequence-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1755.Closest-Subsequence-Sum) (H)  
-[2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference) (H)     
 [1774.Closest-Dessert-Cost](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1774.Closest-Dessert-Cost) (M)  
-[2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences)      
- 
+[2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences) (M)          
+[2151.Maximum-Good-People-Based-on-Statements](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2151.Maximum-Good-People-Based-on-Statements) (M+)      
+    * ``Meet in the Middle``       
+    [1755.Closest-Subsequence-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1755.Closest-Subsequence-Sum) (H)  
+    [2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference) (H)     
 
 #### [Divide and Conquer](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer)
 [315.Count-of-Smaller-Numbers-After-Self](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/315.Count-of-Smaller-Numbers-After-Self) (H-)    
@@ -772,6 +788,7 @@
 
 #### [String](https://github.com/wisdompeak/LeetCode/tree/master/String)
 [006.ZigZag-Conversion](https://github.com/wisdompeak/LeetCode/tree/master/String/006.ZigZag-Conversion) (M+)    
+[068.Text-Justification](https://github.com/wisdompeak/LeetCode/tree/master/String/068.Text-Justification) (H)    
 [336.Palindrome-Pairs](https://github.com/wisdompeak/LeetCode/tree/master/String/336.Palindrome-Pairs) (H-)   
 [388.Longest-Absolute-File-Path](https://github.com/wisdompeak/LeetCode/tree/master/String/388.Longest-Absolute-File-Path) (M+)    
 [418.Sentence-Screen-Fitting](https://github.com/wisdompeak/LeetCode/tree/master/String/418.Sentence-Screen-Fitting) (M+)   
@@ -799,6 +816,8 @@
 [1554.Strings-Differ-by-One-Character](https://github.com/wisdompeak/LeetCode/tree/master/String/1554.Strings-Differ-by-One-Character) (H)  
 [1698.Number-of-Distinct-Substrings-in-a-String](https://github.com/wisdompeak/LeetCode/tree/master/String/1698.Number-of-Distinct-Substrings-in-a-String) (H-)  
 [1923.Longest-Common-Subpath](https://github.com/wisdompeak/LeetCode/tree/master/String/1923.Longest-Common-Subpath) (H)  
+[2156.Find-Substring-With-Given-Hash-Value](https://github.com/wisdompeak/LeetCode/tree/master/String/2156.Find-Substring-With-Given-Hash-Value) (M)     
+[2168.Unique-Substrings-With-Equal-Digit-Frequency](https://github.com/wisdompeak/LeetCode/tree/master/String/2168.Unique-Substrings-With-Equal-Digit-Frequency) (M+)      
 * ``KMP``   
 [1392.Longest-Happy-Prefix](https://github.com/wisdompeak/LeetCode/tree/master/String/1392.Longest-Happy-Prefix) (H)    
 [028.Implement-strStr](https://github.com/wisdompeak/LeetCode/tree/master/String/028.Implement-strStr) (H)    
@@ -842,6 +861,7 @@
 [1970.Last-Day-Where-You-Can-Still-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1970.Last-Day-Where-You-Can-Still-Cross) (H-)    
 [2076.Process-Restricted-Friend-Requests](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2076.Process-Restricted-Friend-Requests) (H-)    
 [2092.Find-All-People-With-Secret](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2092.Find-All-People-With-Secret) (H-)      
+[2157.Groups-of-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/2157.Groups-of-Strings) (H)      
 * ``Prime Factors``    
 [952.Largest-Component-Size-by-Common-Factor](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/952.Largest-Component-Size-by-Common-Factor) (H)   
 [1627.Graph-Connectivity-With-Threshold](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1627.Graph-Connectivity-With-Threshold) (M+)  
@@ -901,7 +921,9 @@
 [1719.Number-Of-Ways-To-Reconstruct-A-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1719.Number-Of-Ways-To-Reconstruct-A-Tree) (H+)  
 [1761.Minimum-Degree-of-a-Connected-Trio-in-a-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1761.Minimum-Degree-of-a-Connected-Trio-in-a-Graph) (M+)  
 [1782.Count-Pairs-Of-Nodes](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1782.Count-Pairs-Of-Nodes) (H)  
+* ``Hungarian Algorithm``    
 [1820.Maximum-Number-of-Accepted-Invitations](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1820.Maximum-Number-of-Accepted-Invitations) (H)  
+[2123.Minimum-Operations-to-Remove-Adjacent-Ones-in-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2123.Minimum-Operations-to-Remove-Adjacent-Ones-in-Matrix) (H)    
 
 #### [Math](https://github.com/wisdompeak/LeetCode/tree/master/Math)  
 [089.Gray-Code](https://github.com/wisdompeak/LeetCode/tree/master/Math/089.Gray-Code) (M+) (aka. 1238. Circular Permutation in Binary Representation)  
@@ -929,11 +951,12 @@
 [1103.Distribute-Candies-to-People](https://github.com/wisdompeak/LeetCode/tree/master/Math/1103.Distribute-Candies-to-People) (M+)   
 1330.Reverse-Subarray-To-Maximize-Array-Value (TBD)   
 [1250.Check-If-It-Is-a-Good-Array](https://github.com/wisdompeak/LeetCode/tree/master/Math/1250.Check-If-It-Is-a-Good-Array) (M+)   
-[1605.Find-Valid-Matrix-Given-Row-and-Column-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Math/1605.Find-Valid-Matrix-Given-Row-and-Column-Sums) (M+)  
 [1680.Concatenation-of-Consecutive-Binary-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Math/1680.Concatenation-of-Consecutive-Binary-Numbers) (M)  
 [1739.Building-Boxes](https://github.com/wisdompeak/LeetCode/tree/master/Math/1739.Building-Boxes) (H-)  
 [1806.Minimum-Number-of-Operations-to-Reinitialize-a-Permutation](https://github.com/wisdompeak/LeetCode/tree/master/Math/1806.Minimum-Number-of-Operations-to-Reinitialize-a-Permutation) (H)  
 [1969.Minimum-Non-Zero-Product-of-the-Array-Elements](https://github.com/wisdompeak/LeetCode/tree/master/Math/1969.Minimum-Non-Zero-Product-of-the-Array-Elements) (M+)    
+[2128.Remove-All-Ones-With-Row-and-Column-Flips](https://github.com/wisdompeak/LeetCode/tree/master/Math/2128.Remove-All-Ones-With-Row-and-Column-Flips) (M+)     
+[2183.Count-Array-Pairs-Divisible-by-K](https://github.com/wisdompeak/LeetCode/tree/master/Math/2183.Count-Array-Pairs-Divisible-by-K) (M+)     
 * ``Distances``   
 [296.Best-Meeting-Point](https://github.com/wisdompeak/LeetCode/tree/master/Math/296.Best-Meeting-Point) (M+)  
 [2033.Minimum-Operations-to-Make-a-Uni-Value-Grid](https://github.com/wisdompeak/LeetCode/tree/master/Math/2033.Minimum-Operations-to-Make-a-Uni-Value-Grid) (M+)      
@@ -1032,6 +1055,10 @@
 [1911.Maximum-Alternating-Subsequence-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1911.Maximum-Alternating-Subsequence-Sum) (M+)  
 [2086.Minimum-Number-of-Buckets-Required-to-Collect-Rainwater-from-Houses](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2086.Minimum-Number-of-Buckets-Required-to-Collect-Rainwater-from-Houses) (M+)     
 [2136.Earliest-Possible-Day-of-Full-Bloom](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2136.Earliest-Possible-Day-of-Full-Bloom) (M+)      
+[2170.Minimum-Operations-to-Make-the-Array-Alternating](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2170.Minimum-Operations-to-Make-the-Array-Alternating) (M+)    
+[2171.Removing-Minimum-Number-of-Magic-Beans](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2171.Removing-Minimum-Number-of-Magic-Beans) (M)    
+[2182.Construct-String-With-Repeat-Limit](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2182.Construct-String-With-Repeat-Limit) (M+)     
+[2193.Minimum-Number-of-Moves-to-Make-Palindrome](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2193.Minimum-Number-of-Moves-to-Make-Palindrome) (H+)    
 * ``LIS``   
 [300.Longest-Increasing-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/300.Longest-Increasing-Subsequence) (M+)   
 [354.Russian-Doll-Envelopes](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/354.Russian-Doll-Envelopes) (H-)     
@@ -1053,6 +1080,8 @@
 [1671.Minimum-Number-of-Removals-to-Make-Mountain-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1671.Minimum-Number-of-Removals-to-Make-Mountain-Array) (M+)  
 [1769.Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1769.Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box) (M+)  
 [1888.Minimum-Number-of-Flips-to-Make-the-Binary-String-Alternating](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1888.Minimum-Number-of-Flips-to-Make-the-Binary-String-Alternating) (M+)  
+[2163.Minimum-Difference-in-Sums-After-Removal-of-Elements](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2163.Minimum-Difference-in-Sums-After-Removal-of-Elements) (M+)     
+[2167.Minimum-Time-to-Remove-All-Cars-Containing-Illegal-Goods](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2167.Minimum-Time-to-Remove-All-Cars-Containing-Illegal-Goods) (H-)    
 * ``State Machine``   
 [524.Longest-Word-in-Dictionary-through-Deleting](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/524.Longest-Word-in-Dictionary-through-Deleting) (M+)  
 [727.Minimum-Window-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/727.Minimum-Window-Subsequence) (H-)    
@@ -1105,6 +1134,7 @@
 [324.Wiggle-Sort-II](https://github.com/wisdompeak/LeetCode/tree/master/Others/324.Wiggle-Sort-II) (H)    
 [667.Beautiful-Arrangement-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/667.Beautiful-Arrangement-II) (M)  
 [932.Beautiful-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/932.Beautiful-Array) (H)    
+[1605.Find-Valid-Matrix-Given-Row-and-Column-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Math/1605.Find-Valid-Matrix-Given-Row-and-Column-Sums) (H-)  
 [2007.Find-Original-Array-From-Doubled-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2007.Find-Original-Array-From-Doubled-Array) (M)    
 [2122.Recover-the-Original-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/2122.Recover-the-Original-Array) (H-)      
 [1982.Find-Array-Given-Subset-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1982.Find-Array-Given-Subset-Sums) (H)      
@@ -1151,6 +1181,7 @@
 [1904.The-Number-of-Full-Rounds-You-Have-Played](https://github.com/wisdompeak/LeetCode/tree/master/Others/1904.The-Number-of-Full-Rounds-You-Have-Played) (M)  
 [1997.First-Day-Where-You-Have-Been-in-All-the-Rooms](https://github.com/wisdompeak/LeetCode/tree/master/Others/1997.First-Day-Where-You-Have-Been-in-All-the-Rooms) (H)     
 [2018.Check-if-Word-Can-Be-Placed-In-Crossword](https://github.com/wisdompeak/LeetCode/tree/master/Others/2018.Check-if-Word-Can-Be-Placed-In-Crossword) (M+)     
+[2147.Number-of-Ways-to-Divide-a-Long-Corridor](https://github.com/wisdompeak/LeetCode/tree/master/Others/2147.Number-of-Ways-to-Divide-a-Long-Corridor) (M)      
 * ``结论转移``   
 [1685.Sum-of-Absolute-Differences-in-a-Sorted-Array](https://github.com/wisdompeak/LeetCode/tree/master/Others/1685.Sum-of-Absolute-Differences-in-a-Sorted-Array) (M)     
 [2121.Intervals-Between-Identical-Elements](https://github.com/wisdompeak/LeetCode/tree/master/Others/2121.Intervals-Between-Identical-Elements) (M)     
@@ -1171,6 +1202,7 @@
 1893.Check if All the Integers in a Range Are Covered (E)  
 [1943.Describe-the-Painting](https://github.com/wisdompeak/LeetCode/tree/master/Others/1943.Describe-the-Painting) (H-)  
 [2015.Average-Height-of-Buildings-in-Each-Segment](https://github.com/wisdompeak/LeetCode/tree/master/Others/2015.Average-Height-of-Buildings-in-Each-Segment) (H-)     
+[2158.Amount-of-New-Area-Painted-Each-Day](https://github.com/wisdompeak/LeetCode/tree/master/Others/2158.Amount-of-New-Area-Painted-Each-Day) (H-)      
 * ``二维差分``   
 [850.Rectangle-Area-II](https://github.com/wisdompeak/LeetCode/tree/master/Others/850.Rectangle-Area-II) (H)   
 [2132.Stamping-the-Grid](https://github.com/wisdompeak/LeetCode/tree/master/Others/2132.Stamping-the-Grid) (H)    

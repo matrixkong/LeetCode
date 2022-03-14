@@ -1,30 +1,32 @@
 class Solution {
 public:
-    int closestCost(vector<int>& baseCosts, vector<int>& toppingCosts, int target) 
-    {
-        int cost;
-        int diff = INT_MAX;
+    int closestCost(vector<int>& baseCosts, vector<int>& toppingCosts, int target) {
         int m = toppingCosts.size();
         
-        for (int baseCost: baseCosts)
-        {            
-            for (int state = 0; state < (1<<(2*m)); state++)
+        int ret = INT_MAX;
+        int ret_diff = INT_MAX;
+        
+        for (int base: baseCosts)
+            for(int state = 0; state < pow(3,m); ++state) 
             {
-                int sum = baseCost;
-                for (int i=0; i<m; i++)
+                int s = state;
+                int topping = 0;
+                for(int i = 0; i < m; ++i) 
                 {
-                    if ((state>>(i*2))&1)
-                        sum += toppingCosts[i];
-                    if ((state>>(i*2+1))&1)
-                        sum += toppingCosts[i];
+                    int cur = s%3;                
+                    topping += toppingCosts[i] * cur;
+                    s/=3;
                 }
-                if (abs(sum-target)<diff || abs(sum-target)==diff && sum<cost)
+                
+                if (abs(base+topping-target) < ret_diff)
                 {
-                    diff = abs(sum-target);
-                    cost = sum;
-                }
-            }            
-        }        
-        return cost;        
+                    ret = base+topping;
+                    ret_diff = abs(base+topping-target);
+                }                    
+                else if (abs(base+topping-target) == ret_diff && base+topping < ret)
+                    ret = base+topping;                    
+            }
+        
+        return ret;
     }
 };
