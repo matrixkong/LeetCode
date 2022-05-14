@@ -170,7 +170,7 @@
 
 
 
-[2025.Maximum-Number-of-Ways-to-Partition-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Hash/2025.Maximum-Number-of-Ways-to-Partition-an-Array) (H)      
+   Hard [2025.Maximum-Number-of-Ways-to-Partition-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Hash/2025.Maximum-Number-of-Ways-to-Partition-an-Array) (H)      
 
 #### [Heap](https://github.com/wisdompeak/LeetCode/tree/master/Heap)
 [220.Contains-Duplicate-III](https://github.com/wisdompeak/LeetCode/tree/master/Heap/220.Contains-Duplicate-III) (M)  
